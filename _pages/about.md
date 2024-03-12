@@ -8,4 +8,6 @@ There's not much to say about. I'm a "hacker", hate the word but it's the best d
 World's going to shit, as such I use Programming and Hacking as a distraction from it. Depressing, I know. I've been in this field for 4 or 5 years at this point, and the general technology field for about 7 or more, I stopped counting after like, four.
 Note: Sometimes my posts will just go into rants about some stupid shit like the government or depression or some shit. Just ignore it.
 
-https://www.youtube.com/watch?v=L_iU0lRHMhE
+
+{% include video id="L_iU0lRHMhE" provider="youtube" %}
+
