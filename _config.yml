@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Stealth"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : https://avatars.githubusercontent.com/u/42773083?v=4
+  avatar : https://avatars.githubusercontent.com/u/42773083?v=4
+  bio    : "Programmer, hacker and just general retard. This shit is my distraction"
   links:
     - label: "???"
       icon: "fas fa-fw fa-user-secret"
