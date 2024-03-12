@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+There's not much to say about. I'm a "hacker", hate the word but it's the best description. I make malware and POCs for fun, most of it is slop since it's easier to get shit out fast, but sometimes I make good shit. Usually, it's not public, but you might find some of my slop here, and occasionally the good shit if I like it enough to publish it or something.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+World's going to shit, as such I use Programming and Hacking as a distraction from it. Depressing, I know. I've been in this field for 4 or 5 years at this point, and the general technology field for about 7 or more, I stopped counting after like, four.
+Note: Sometimes my posts will just go into rants about some stupid shit like the government or depression or some shit. Just ignore it.
+
+https://www.youtube.com/watch?v=L_iU0lRHMhE
