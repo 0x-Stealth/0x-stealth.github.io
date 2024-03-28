@@ -118,5 +118,4 @@ analytics:
     tracking_id: "G-CWGVGWSYDH"
     anonymize_ip: false # default
 
-google_site_verification:
-  verification_file_code: google81ae429a27ab66a8
+google_site_verification: "G-CWGVGWSYDH"
