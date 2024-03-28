@@ -117,3 +117,6 @@ analytics:
   google:
     tracking_id: "G-CWGVGWSYDH"
     anonymize_ip: false # default
+
+google_site_verification:
+  google: "j3aMpUoyiMpqMkZQ51XywyDkvfCKU28fBkigxIMPk-w"
